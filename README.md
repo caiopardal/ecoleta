@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="#Ecoleta" src=".github/capa.svg" width="250px" />
+    <img alt="Ecoleta" title="#Ecoleta" src=".github/logo.png" width="300px" />
 </h1>
 
 <h4 align="center"> 
@@ -29,12 +29,12 @@ In this repo, you'll find a mobile application where users will search for colle
 
 <div>
   <h1>Mobile</h1>
-  <img alt="Example" title="Example" src=".github/inicio-mobile.svg" width="200px" />
-  <img alt="Example" title="Example" src=".github/home-mobile.svg" width="200px" />
+  <img alt="" title="Example" src=".github/inicio-mobile.svg" width="300px" />
+  <img alt="" title="Example" src=".github/home-mobile.svg" width="300px" />
 
   <h1>Web</h1>
-  <img alt="Example" title="Example" src=".github/inicio-web.png" width="200px" />
-  <img alt="Example" title="Example" src=".github/cadastro-web.png" width="200px" />
+  <img alt="" title="Example" src=".github/banner.png" width="350px" />
+  <img alt="" title="Example" src=".github/cadastro-web.png" width="300px" />
 </div>
 
 
